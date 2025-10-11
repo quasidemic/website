@@ -14,6 +14,10 @@ title = "Kvasidemiker - Rådgiver og konsulent inden for dataanalyse"
 # enable emoji processing in Markdown (valid only for pure markdown content)
 enableEmoji = true
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 # Theme-specific variables `.Site.Params.myParamName`
 [params]
 
