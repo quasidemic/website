@@ -1,4 +1,4 @@
-baseURL = 'https://www.kvasidemiker.dk/'
+baseURL = 'https://kvasidemiker.dk/'
 languageCode = 'da-dk'
 theme = 'hugo-scroll'
 
