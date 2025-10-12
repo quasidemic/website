@@ -3,7 +3,7 @@ title: "Velkommen"
 weight: 1
 ---
 
-Der er i dag et utal af muligheder for at bruge data – men også med større risiko for at misforstå dem. 
+Der er i dag et utal af muligheder for at bruge data – men også større risiko for at misforstå dem. 
 
 Mange investerer i de forkerte løsninger eller træffer beslutninger på et uoplyst grundlag.
 
